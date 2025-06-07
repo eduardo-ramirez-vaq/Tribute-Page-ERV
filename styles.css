@@ -1,0 +1,57 @@
+body {
+  background-color: #700;
+  font-family: "KoPub Batang", serif;
+}
+
+h1 {
+  color: #FFF;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 96px;
+  font-weight: 400;
+}
+
+hr {
+  width: 100%;
+  max-width: 1325px;
+  height: 15px;
+  background-color: #CEA500;
+  border: none;
+}
+
+p, p1, p2, p3, p4 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Linden Hill", serif;
+}
+
+p1 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+p2 {
+  font-size: 25px;
+  width: 800px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+p3 {
+  font-size: 25px;
+  font-style: italic;
+}
+
+p4 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto
+}
